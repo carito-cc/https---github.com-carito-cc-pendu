@@ -40,4 +40,4 @@ Cet exercice couvre les bases suivantes :
     - `str_contains()` : Permet de savoir si un caractère est présent dans une chaîne.
     - N'oubliez de consulter [la documentation officielle de PHP](https://www.php.net/manual/fr/).
 
-- **Développeur(s)** : ...
+- **Développeur(s)** : ...# pendu
